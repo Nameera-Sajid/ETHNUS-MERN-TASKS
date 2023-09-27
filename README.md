@@ -28,6 +28,6 @@
 
 [TASK-6](https://github.com/Nameera-Sajid/ETHNUS-MERN-TASKS/blob/main/JS_TASK_6.html)
 
-[TASK-7](https://github.com/Nameera-Sajid/ETHNUS-MERN-TASKS/blob/main/JS_Task_7.html)
+[TASK-7](https://github.com/Nameera-Sajid/ETHNUS-MERN-TASKS/blob/main/JsT7.html)
 
 [TASK-8](https://github.com/Nameera-Sajid/ETHNUS-MERN-TASKS/blob/main/JS_Task_8.html)
